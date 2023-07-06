@@ -1,0 +1,5 @@
+0.012
+perl(Exporter::Tiny)
+perl(Sub::Infix)
+perl(Test::Fatal)
+perl(Try::Tiny)
