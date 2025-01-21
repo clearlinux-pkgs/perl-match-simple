@@ -7,7 +7,7 @@
 #
 Name     : perl-match-simple
 Version  : 0.012
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/T/TO/TOBYINK/match-simple-0.012.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TO/TOBYINK/match-simple-0.012.tar.gz
 Summary  : 'simplified clone of smartmatch operator'
